@@ -6,3 +6,10 @@ https://softwareengineering.stackexchange.com/questions/98580/whats-the-work-flo
 The above article refrences this as well
 
 http://nvie.com/posts/a-successful-git-branching-model/
+
+Garrett's notes:
+Used this to inform decision to fork and create pull request:
+https://stackoverflow.com/questions/5007738/multiple-users-and-a-single-repository-on-github-or-springloops
+
+Used this to guide fork/branch/pull process:
+https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
